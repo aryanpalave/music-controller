@@ -43,8 +43,7 @@ MIT License
 
 ## Contact
 
+Hi! I'm Aryan, and I love exploring the intersection of music and technology. 
+
 - Email: [aryanpalave108@gmail.com](mailto:aryanpalave108@gmail.com)
 - GitHub: [aryanpalave](https://github.com/aryanpalave?tab=repositories)
-
-
-Hi! I'm Aryan, and I love exploring the intersection of music and technology. 
